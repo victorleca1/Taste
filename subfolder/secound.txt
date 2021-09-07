@@ -1,3 +1,7 @@
 erste Zeile
+<<<<<<< HEAD
 zweite Zeile (master)
+=======
+zweite Zeile geändert wub
+>>>>>>> bugfix
 dritte Zeile
